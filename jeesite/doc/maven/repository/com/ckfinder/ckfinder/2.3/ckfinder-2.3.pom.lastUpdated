@@ -1,0 +1,17 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 11 16:36:10 CST 2016
+http\://maven.oschina.net/content/groups/public/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1452501369643
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1452501292829
+http\://repo.maven.apache.org/maven2/.lastUpdated=1452501360451
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://download.java.net/maven/2/.error=Could not transfer artifact com.ckfinder\:ckfinder\:pom\:2.3 from/to java-repos (http\://download.java.net/maven/2/)\: Connection to http\://download.java.net refused
+http\://repo.spring.io/release/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1452501370800
+http\://repo.maven.apache.org/maven2/.error=
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1452501370697
+http\://repo.spring.io/release/.lastUpdated=1452501360076
+http\://repo1.maven.org/maven2/.lastUpdated=1452501361264
+http\://repo1.maven.org/maven2/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=
+@default-http\://download.java.net/maven/2/.lastUpdated=1452501334881

@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 11 16:57:52 CST 2016
+http\://repo1.maven.org/maven2/.lastUpdated=1452502580819
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1452502608186
+@default-http\://download.java.net/maven/2/.lastUpdated=1452502565163
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1452502523115
+http\://repo.maven.apache.org/maven2/.lastUpdated=1452502567541
+http\://repo.spring.io/release/.lastUpdated=1452502566858
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=Could not transfer artifact opensymphony\:sitemesh\:jar\:sources\:2.4.2 from/to java-repos (http\://download.java.net/maven/2/)\: Connection to http\://download.java.net refused
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1452502607084
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=Could not transfer artifact opensymphony\:sitemesh\:jar\:sources\:2.4.2 from/to thinkgem-repos2 (https\://raw.github.com/thinkgem/repository/master)\: peer not authenticated
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+@default-https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1452502672417
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1452502608033
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=

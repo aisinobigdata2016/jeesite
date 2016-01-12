@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 11 17:08:24 CST 2016
+http\://repo1.maven.org/maven2/.lastUpdated=1452503283605
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1452503285686
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1452503280088
+http\://repo.maven.apache.org/maven2/.lastUpdated=1452503282416
+http\://repo.spring.io/release/.lastUpdated=1452503281802
+http\://download.java.net/maven/2/.lastUpdated=1452503281038
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1452503284350
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=Could not transfer artifact stax\:stax-api\:jar\:sources\:1.0.1 from/to thinkgem-repos2 (https\://raw.github.com/thinkgem/repository/master)\: peer not authenticated
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+@default-https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1452503304731
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1452503285502
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=

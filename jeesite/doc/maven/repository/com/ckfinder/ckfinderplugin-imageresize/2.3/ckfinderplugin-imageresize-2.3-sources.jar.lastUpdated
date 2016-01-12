@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 11 17:13:10 CST 2016
+http\://repo1.maven.org/maven2/.lastUpdated=1452503530137
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1452503535243
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1452503506598
+http\://repo.maven.apache.org/maven2/.lastUpdated=1452503529691
+http\://repo.spring.io/release/.lastUpdated=1452503529113
+http\://download.java.net/maven/2/.lastUpdated=1452503528327
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1452503533366
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=Could not transfer artifact com.ckfinder\:ckfinderplugin-imageresize\:jar\:sources\:2.3 from/to thinkgem-repos2 (https\://raw.github.com/thinkgem/repository/master)\: peer not authenticated
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+@default-https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1452503590399
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1452503535090
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=

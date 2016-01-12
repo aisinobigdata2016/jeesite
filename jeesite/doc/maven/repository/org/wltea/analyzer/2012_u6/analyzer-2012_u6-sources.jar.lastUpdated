@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 11 17:09:20 CST 2016
+http\://repo1.maven.org/maven2/.lastUpdated=1452503335196
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1452503339542
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1452503332051
+http\://repo.maven.apache.org/maven2/.lastUpdated=1452503334835
+http\://repo.spring.io/release/.lastUpdated=1452503334243
+http\://download.java.net/maven/2/.lastUpdated=1452503333616
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1452503336320
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=Could not transfer artifact org.wltea\:analyzer\:jar\:sources\:2012_u6 from/to thinkgem-repos2 (https\://raw.github.com/thinkgem/repository/master)\: peer not authenticated
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+@default-https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1452503360986
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1452503339426
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=

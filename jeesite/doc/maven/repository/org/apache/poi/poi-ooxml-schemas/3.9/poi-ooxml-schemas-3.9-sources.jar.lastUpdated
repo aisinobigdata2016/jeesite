@@ -1,0 +1,20 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Jan 11 17:07:33 CST 2016
+http\://repo1.maven.org/maven2/.lastUpdated=1452503212320
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1452503216436
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1452503209430
+http\://repo.maven.apache.org/maven2/.lastUpdated=1452503211517
+http\://repo.spring.io/release/.lastUpdated=1452503211145
+http\://download.java.net/maven/2/.lastUpdated=1452503210305
+http\://repo.maven.apache.org/maven2/.error=
+http\://download.java.net/maven/2/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1452503214649
+http\://maven.oschina.net/content/groups/public/.error=
+https\://raw.github.com/thinkgem/repository/master/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:sources\:3.9 from/to thinkgem-repos2 (https\://raw.github.com/thinkgem/repository/master)\: peer not authenticated
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+@default-https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1452503253836
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1452503216334
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+http\://repo.spring.io/release/.error=
+https\://app.camunda.com/nexus/content/groups/public/.error=
+http\://repo1.maven.org/maven2/.error=

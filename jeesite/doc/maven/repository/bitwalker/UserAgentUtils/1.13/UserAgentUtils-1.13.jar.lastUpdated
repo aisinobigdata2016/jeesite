@@ -1,0 +1,19 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Jan 07 17:44:02 CST 2016
+http\://maven.oschina.net/content/groups/public/.error=
+https\://maven.alfresco.com/nexus/content/groups/public/.lastUpdated=1452159807244
+http\://maven.oschina.net/content/groups/public/.lastUpdated=1452159794334
+http\://repo.maven.apache.org/maven2/.lastUpdated=1452159805544
+https\://maven.alfresco.com/nexus/content/groups/public/.error=
+http\://download.java.net/maven/2/.error=Could not transfer artifact bitwalker\:UserAgentUtils\:jar\:1.13 from/to java-repos (http\://download.java.net/maven/2/)\: connect timed out
+http\://repo.spring.io/release/.error=
+http\://repo.maven.apache.org/maven2/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.lastUpdated=1452159838723
+https\://app.camunda.com/nexus/content/groups/public/.lastUpdated=1452159838571
+http\://repo.spring.io/release/.lastUpdated=1452159805082
+https\://raw.github.com/thinkgem/repository/master/.lastUpdated=1452159842017
+http\://repo1.maven.org/maven2/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1452159806216
+https\://app.camunda.com/nexus/content/groups/public/.error=
+http\://git.oschina.net/thinkgem/repos/raw/master/.error=
+@default-java-repos-http\://download.java.net/maven/2/.lastUpdated=1452159804388
